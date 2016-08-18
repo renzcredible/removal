@@ -1,6 +1,6 @@
 body {
     background-color: lightskyblue;
-    background-image: url('img/1.jpg');
+    background-image: url('img/9.jpg');
     background-attachment: fixed;
     /*background-color: gray;*/
     color: black;
@@ -64,7 +64,7 @@ a:hover, a:active {
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     margin-top: 5px;
 }
 
@@ -110,7 +110,7 @@ a:hover, a:active {
 }
 
 .topcontent {
-    background-color: #fff;
+    background-color: lightseagreen;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -118,19 +118,10 @@ a:hover, a:active {
     /*margin-top: 2%;*/
 }
 
-.bottomcontent {
-    background-color: #fff;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    padding: 3% 5%;
-    margin-top: 2%;
-}
-
 .top-sidebar {
     width: 23%;
     float: left;
-    background-color: #fff;
+    background-color: lightseagreen;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -147,7 +138,7 @@ a:hover, a:active {
 .middle-sidebar {
     width: 23%;
     float: left;
-    background-color:  #fff;
+    background-color:  lightseagreen;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -159,7 +150,7 @@ a:hover, a:active {
 .bottom-sidebar {
     width: 23%;
     float: left;
-    background-color:  #fff;
+    background-color: lightseagreen;
     border-radius: 5px;
      -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -183,5 +174,4 @@ a:hover, a:active {
 .mainFooter p {
     width: 92%;
     margin: 10px auto;
-    color: #fff;
 }
